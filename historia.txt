@@ -1,6 +1,6 @@
 linea arriba 
 #
-Hola soy Raul tengo 31 de edad
+Hola soy Raul tengo 30 de edad
 
 #
 mira como hago mi segundo commit
